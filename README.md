@@ -1,3 +1,3 @@
 # Python
 Python Projects
-Döviz Kurlarını https://dolar.tlkur.com sitesinden çeker
+Python ile kendimi geliştirmek için aldığım ders notları...
