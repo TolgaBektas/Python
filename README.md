@@ -1,3 +1,2 @@
 # Python
-Python Projects
 Python ile kendimi geliştirmek için aldığım ders notları...
